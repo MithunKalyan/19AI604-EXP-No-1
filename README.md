@@ -48,7 +48,7 @@ fn main() {
 ```
 
 ## OUTPUT:
+<img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/b6b9138e-5710-4fce-9ce3-05a555cb8de3" />
 
 ## RESULT:
-
-
+Thus, Rust and Cargo tools were successfully installed and configured in the Visual Studio Code environment, and the Hello World program executed correctly, confirming the setup.
